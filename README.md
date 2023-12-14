@@ -1,4 +1,9 @@
-### Hi there 👋
+### My about me:
+Hey, I'm Lucy (or Luna), a trans girl from Germany who really loves programming and cuddling.
+<br>
+I'm currently learning Ansi C and C++.
+<br>
+Meow~
 
 <!--
 **cuddlycatgirl/cuddlycatgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
